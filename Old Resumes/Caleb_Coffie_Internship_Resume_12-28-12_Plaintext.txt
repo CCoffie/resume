@@ -1,0 +1,71 @@
+Caleb S. Coffie
+1855 Greenpoint Avenue
+Rotterdam, New York 12303
+CalebCoffie@gmail.com
+(518) 982-6860(Cell)
+
+EDUCATION
+Bachelor of Science (expected completion: May 2015)
+Major- Information Security and Forensics
+Rochester Institute of Technology
+Rochester, New York
+
+AVAILABLE:
+May 2013-August 2013
+
+OBJECTIVE:
+Internship that will provide practical work experience and professional development in programming, network security, forensics, and new product development.
+
+ACTIVITIES:
+-Security Practices and Research Association( SPARSA)
+-RIT Competitive Cyber- security Club( RC3)
+-InterVarsity Christian Fellowship Small Group Leader
+
+EXPERIENCE:
+Student System Administrator (September 2012-Present)
+RIT College of Imaging Sciences, Rochester, NY
+Assisted students and staff with networking problems as well as software problems.
+Provided support for Windows, Linux, Mac systems.
+
+RELEVANT COURSEWORK:
+-Cyber Self Defense
+-Information Security Policies
+-Cryptography and Authentication
+-C/C++ Programming
+-Network Fundamentals
+-Data Analysis
+-Ruby Programming
+-Platform Independent Client Server Programming
+-Scripting in Perl
+-Application of Wireless Networks
+
+PROJECTS:
+SMTP Client and Server Project
+Multi-threaded SMTP mail server and client in C++
+
+Random Hacks of Kindness
+Ruby application that creates SMS text messages for purchase tracking and adds data to financial ledger document( Created for Peace Corps, for use in Ghana)
+
+FIRST robotics team
+Created an operating manual for programming the team's robot and instructed team members on basic programming skills and operation using National Instruments LabVIEW
+
+SKILLS:
+-C/C++ Programming
+-Autodesk 3DS Max
+-National Instrument's LabView
+-Ruby Programming
+-Metasploit Framework
+-Linux Operating Systems
+-Autodesk Inventor
+-VMWare Workstations
+-MS Office
+
+VOLUNTEER WORK:
+Albany City Rescue Mission:
+Volunteer food server
+
+REFERENCES:
+Available upon request
+
+Student System Administration
+(September 2012 - December 2013 & August 2014 - Current) 
